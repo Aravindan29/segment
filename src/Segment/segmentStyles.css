@@ -1,0 +1,37 @@
+.introHead {
+  background-color: #39afbd;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.cont {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.offFooter {
+  background-color: #f6f6f6;
+}
+
+.fotcon {
+  padding: 20px;
+}
+
+.savBtn {
+  background-color: #45b191;
+  border: none;
+}
+
+.savBtn:hover {
+  background-color: #39afbd;
+}
+
+.canBtn {
+  background-color: #fff;
+  border: none;
+  color: #d6477a;
+}
+
+.canBtn:hover {
+  background-color: #d6477a;
+}
